@@ -6,7 +6,8 @@ The intervention encourages people to share surplus food they can't eat themselv
 
 ## Materials (in Dutch)
   
-  ### Guideline Flyer   
+  ### Guideline Flyer 
+  [Download guideline flyer](Guideline flyer.jpeg)
   An information guideline explaining five ways to share food locally:   
   1. Think of people nearby (neighbors, friends, family)
   2. Use the Olio app to share groceries
