@@ -7,7 +7,7 @@ The intervention encourages people to share surplus food they can't eat themselv
 ## Materials (in Dutch)
   
   ### Guideline Flyer 
-  [Download guideline flyer](Guideline flyer.jpeg)
+  [Download guideline flyer](Guideline%20flyer.jpeg)
   An information guideline explaining five ways to share food locally:   
   1. Think of people nearby (neighbors, friends, family)
   2. Use the Olio app to share groceries
@@ -16,7 +16,8 @@ The intervention encourages people to share surplus food they can't eat themselv
   5. Discover all local food sharing initiatives via an overview map
   Notes. Scan the QR codes to find local initiatives for 3, 4, and 5. 
   
-  ### Sticker   
+  ### Sticker
+  [Download sticker](Sticker.png)
   A small circular sticker designed to be placed on food items, which says "eat me today, or give me away", prompting people to share surplus food with others.
 
 ## Reference
