@@ -13,11 +13,13 @@ The intervention encourages people to share surplus food they can't eat themselv
   3. Join food sharing groups on Facebook and social media
   4. Find food banks and community fridges nearby
   5. Discover all local food sharing initiatives via an overview map  
-  Notes. Scan the QR codes to find local initiatives for 3, 4, and 5.  
+  Notes. Scan the QR codes to find local initiatives for 3, 4, and 5.
+
   [Download guideline flyer](Guideline%20flyer.jpeg)  
   
   ### Sticker 
   A small circular sticker designed to be placed on food items, which says "eat me today, or give me away", prompting people to share surplus food with others.  
+  
   [Download sticker](Sticker.png) 
 
 ## Reference
