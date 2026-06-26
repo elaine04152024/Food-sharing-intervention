@@ -1,4 +1,4 @@
-# Food-sharing-intervention
+# Food sharing intervention
 This intervention was developed at Wageningen University & Research (WUR), aimed at reducing food waste in local communities.
 
 ## About the intervention
